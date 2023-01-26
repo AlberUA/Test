@@ -6,7 +6,7 @@
 			"title": "Grifo",
 			"text": "Night lamp",
 			"labels": "",
-			"image": "05.jpg",
+			"image": "image_5.jpg",
 			"price": "1.500.000",
 			"priceOld": "",
 			"shareUrl": "",
@@ -18,10 +18,6 @@
 			"title": "Muggo",
 			"text": "Small mug",
 			"labels": [
-				{
-					"type": "sale",
-					"value": "-50%"
-				},
 				{
 					"type": "new",
 					"value": "New"
